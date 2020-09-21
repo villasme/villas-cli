@@ -1,10 +1,10 @@
 {
   "name": "@villas/cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "脚手架集合",
   "main": "index.js",
   "bin": {
-    "npm-cli": "bin/npm-cli.js"
+    "villas-cli": "bin/villas-cli.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -16,6 +16,7 @@
     "typescript": "^4.0.3"
   },
   "repository": "https://github.com/villasme/villas-cli",
+  "keywords": ["cli", "generator"],
   "dependencies": {
     "chalk": "^4.1.0",
     "co": "^4.6.0",
