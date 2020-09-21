@@ -1,0 +1,12 @@
+{
+    "tpl": {
+        "vue": {
+            "url": "git@github.com:villasme/vue-ssr.git",
+            "branch": "master"
+        },
+        "react": {
+            "url": "git@github.com:villasme/react_ssr.git",
+            "branch": "master"
+        }
+    }
+}

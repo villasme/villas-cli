@@ -1,0 +1,24 @@
+{
+  "name": "@villas/cli",
+  "version": "1.0.0",
+  "description": "脚手架集合",
+  "main": "index.js",
+  "bin": {
+    "npm-cli": "bin/npm-cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-node": "^9.0.0",
+    "typescript": "^4.0.3"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^6.1.0"
+  }
+}
