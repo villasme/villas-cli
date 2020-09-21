@@ -2,7 +2,7 @@
 
 ## Install
 ```
-npm insltall -g @villas/cli
+npm install -g @villas/cli
 ```
 
 集成:
