@@ -19,7 +19,7 @@ module.exports = () => {
     branch = config.tpl[tplName].branch
  
     // git命令，远程拉取项目并自定义项目名
-    let cmdStr = `git clone ${gitUrl} ${projectName} && cd ${projectName} && git checkout ${branch}`
+    let cmdStr = `git clone -b ${branch} ${gitUrl} ${projectName} && cd ${projectName} && rm -rf .git && git init`
  
     console.log(chalk.white('\n Start generating...'))
  

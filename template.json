@@ -1,11 +1,15 @@
 {
     "tpl": {
         "vue": {
-            "url": "git@github.com:villasme/vue-ssr.git",
+            "url": "https://github.com/villasme/vue-ssr.git",
+            "branch": "master"
+        },
+        "nuxt": {
+            "url": "https://github.com/villasme/nuxt-template.git",
             "branch": "master"
         },
         "react": {
-            "url": "git@github.com:villasme/react_ssr.git",
+            "url": "https://github.com/villasme/react_ssr.git",
             "branch": "master"
         }
     }
