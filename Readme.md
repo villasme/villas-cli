@@ -8,6 +8,8 @@ npm install -g @villas/cli
 集成:
 * vue-ssr
 * react-ssr
+* nuxtJS
+* nestJS
 
 # 指令
 
