@@ -14,7 +14,7 @@
         },
         "nest": {
             "url": "https://github.com/villasme/nest-template.git",
-            "branch": "master"
+            "branch": "web"
         }
     }
 }
